@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-docx
+pytesseract
+Pillow
+openai
+pydantic
+httpx
+python-dotenv
+path
